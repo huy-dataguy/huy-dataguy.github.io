@@ -30,6 +30,10 @@ github:
 
 # twitter:
 #   username: huy.dataguy # change to your Twitter username
+facebook:
+  username: huy.dataguy
+linkedin:
+  username: huy-dataguy
 
 social:
   # Change to your full name.
