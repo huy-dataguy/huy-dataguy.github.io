@@ -17,6 +17,7 @@ timezone:
 title: Quốc Huy # the main title
 
 tagline: Data Engineer # it will display as the subtitle
+head_custom: true
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
