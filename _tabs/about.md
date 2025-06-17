@@ -28,7 +28,7 @@ I'm passionate about building scalable data pipelines, real-time streaming syste
 ## Connect with Me
 
 - [LinkedIn: huy-dataguy](https://www.linkedin.com/in/huy-dataguy)  
-- [Facebook: quochuy.story](https://www.facebook.com/huy.dataguy)
+- [Facebook: huy.dataguy](https://www.facebook.com/huy.dataguy)
 
 ---
 
@@ -64,7 +64,10 @@ JWT-based authentication and RESTful API design.
 
 ## Tech Stack
 
-
+- **Big Data & Cloud**: Apache Spark, Kafka, Delta Lake, MinIO, Apache Hadoop, Trino, Apache Airflow  
+- **DevOps & Tools**: Docker, Superset  
+- **Web Dev**: MERN Stack (MongoDB, Express.js, React, Node.js)  
+- **Languages**: Python, JavaScript, MySQL, C#
 
 ---
 
