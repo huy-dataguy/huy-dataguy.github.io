@@ -74,3 +74,5 @@ JWT-based authentication and RESTful API design.
 ## GitHub Activity
 
 ![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huy-dataguy&area=true&theme=github-compact&bg_color=000000)
+
+---
