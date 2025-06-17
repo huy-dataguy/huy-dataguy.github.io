@@ -27,18 +27,18 @@ I'm passionate about building scalable data pipelines, real-time streaming syste
 
 ## Connect with Me
 
-- [LinkedIn: huy-dataguy](https://www.linkedin.com/in/huy-dataguy)
-- [Facebook: quochuy.story](https://www.facebook.com/quochuy.story)
+- [LinkedIn: huy-dataguy](https://www.linkedin.com/in/huy-dataguy)  
+- [Facebook: quochuy.story](https://www.facebook.com/huy.dataguy)
 
 ---
 
 ## Featured Projects
 
 - **[NYC-Taxi-Lakehouse](https://github.com/huy-dataguy/NYC-Taxi-Lakehouse)**  
-  Real-time Big Data streaming for NYC taxi trip analytics using a modern lakehouse architecture (MinIO, Delta Lake, Spark, Trino, Airflow, Superset)
+  Real-time Big Data streaming for NYC taxi trip analytics using a modern lakehouse architecture
 
 - **[HadoopSphere](https://github.com/huy-dataguy/HadoopSphere)**  
-  Containerized Hadoop cluster with Spark, Hive, Pig, HBase, and Zookeeper for scalable Big Data processing
+  Containerized Hadoop cluster with Spark, Hive, Pig, HBase, and Zookeeper
 
 - **[Salus-Assistant](https://github.com/huy-dataguy/Salus-Assistant)**  
   Intelligent assistant combining Data Engineering and UI development with MERN stack
@@ -50,16 +50,26 @@ I'm passionate about building scalable data pipelines, real-time streaming syste
 
 ## Tech Stack
 
-- **Big Data & Cloud**: Apache Spark, Kafka, Delta Lake, MinIO, Apache Hadoop, Trino, Apache Airflow  
-- **DevOps & Tools**: Docker, Superset  
-- **Web Dev**: MERN Stack (MongoDB, Express.js, React, Node.js)  
-- **Languages**: Python, JavaScript, MySQL, C#
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-1AB394?style=for-the-badge&logo=databricks&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C12127?style=for-the-badge&logo=minio&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+![Trino](https://img.shields.io/badge/Trino-3F4E9C?style=for-the-badge&logo=trino&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Superset](https://img.shields.io/badge/Apache%20Superset-FF5A5F?style=for-the-badge&logo=apache-superset&logoColor=white)
+![MERN Stack](https://img.shields.io/badge/MERN%20Stack-000000?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ---
 
 ## GitHub Activity
 
 ![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huy-dataguy&area=true&theme=github-compact&bg_color=000000)
-
----
-
