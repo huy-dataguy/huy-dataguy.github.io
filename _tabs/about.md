@@ -35,38 +35,36 @@ I'm passionate about building scalable data pipelines, real-time streaming syste
 ## Featured Projects
 
 - **[NYC-Taxi-Lakehouse](https://github.com/huy-dataguy/NYC-Taxi-Lakehouse)**  
-  Real-time Big Data streaming for NYC taxi trip analytics using a modern lakehouse architecture
+Real-time Big Data Pipeline – Spark Structured Streaming, Delta Lake, Trino, Airflow, Superset, MinIO
+Built a modern lakehouse architecture to process and analyze NYC taxi trip data in near real-time.
+Ingested raw trip data with Spark Structured Streaming, processed into Delta Lake with ACID support.
+Queried data interactively using Trino, visualized insights via Apache Superset dashboards.
+Apache Airflow orchestrated batch and stream workflows; MinIO served as a cloud-native object store.
 
 - **[HadoopSphere](https://github.com/huy-dataguy/HadoopSphere)**  
-  Containerized Hadoop cluster with Spark, Hive, Pig, HBase, and Zookeeper
+Containerized Big Data Ecosystem – Docker, Hadoop, Spark, Hive, Pig, HBase, Zookeeper
+Deployed a full-fledged Hadoop ecosystem using Docker Compose, ideal for learning and demo purposes.
+Integrated services: HDFS, Hive Metastore, Spark, Pig, HBase, and Zookeeper.
+Enabled fast reproducibility and experimentation with Big Data tools in an isolated multi-container environment.
 
 - **[Salus-Assistant](https://github.com/huy-dataguy/Salus-Assistant)**  
-  Intelligent assistant combining Data Engineering and UI development with MERN stack
+AI Assistant App – MERN Stack + Gemini2
+Developed an intelligent assistant web app combining full-stack and AI technologies, offering smart conversational interaction.
+Frontend built with React for smooth UX; stores chat history and user context in MongoDB.
+Demonstrates practical integration of AI into a MERN-based web system.
 
 - **[MERN-Stack-Book-Store](https://github.com/huy-dataguy/MERN-Stack-Book-Store)**  
-  Full-stack MERN e-commerce bookstore with authentication and admin dashboard
+E-commerce Bookstore Platform – React, Redux, Express.js, MongoDB
+A full-stack e-commerce website with standard store functionality:
+Implemented user authentication, admin dashboard, cart, order management, and checkout flow.
+Backend built with Node.js + Express, frontend with React + Redux, data stored in MongoDB.
+JWT-based authentication and RESTful API design.
 
 ---
 
 ## Tech Stack
 
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-1AB394?style=for-the-badge&logo=databricks&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C12127?style=for-the-badge&logo=minio&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
-![Trino](https://img.shields.io/badge/Trino-3F4E9C?style=for-the-badge&logo=trino&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Superset](https://img.shields.io/badge/Apache%20Superset-FF5A5F?style=for-the-badge&logo=apache-superset&logoColor=white)
-![MERN Stack](https://img.shields.io/badge/MERN%20Stack-000000?style=for-the-badge&logo=mongodb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 
 ---
 
