@@ -1,9 +1,10 @@
 ---
-
-## title: "Tổng quan DataFrame trong Apache Spark: Khái Niệm, Schema, và Partitioning"  
+title: "Tổng quan DataFrame trong Apache Spark: Khái Niệm, Schema, và Partitioning"  
 date: 2025-07-02  
 categories: [Apache Spark]
 tags: [spark, dataframe, partition, schema, scala]
+
+---
 
 ## 1. DataFrame là gì?
 
