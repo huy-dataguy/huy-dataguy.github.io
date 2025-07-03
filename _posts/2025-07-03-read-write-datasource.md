@@ -128,7 +128,7 @@ Dưới đây là hướng dẫn chi tiết cách đọc và ghi các định d�
 
 #### **Đọc File CSV**
 
-**Ví dụ đơn giản**:
+**Ví dụ**:
 
 ```scala
 val csvDF = spark.read.format("csv")
@@ -138,7 +138,7 @@ val csvDF = spark.read.format("csv")
 csvDF.show(5)
 ```
 
-**Ví dụ
+**Ví dụ**
 - Cách tạo schema thủ công (để kiểm soát kiểu dữ liệu):
 
 ```scala
