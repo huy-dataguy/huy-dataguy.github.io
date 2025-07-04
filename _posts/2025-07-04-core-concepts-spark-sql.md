@@ -1,7 +1,7 @@
 ---
 title: "Khái Niệm Cốt Lõi trong Spark SQL: Hive, Hive Metastore, Hive Warehouse, Catalog, và Managed/Unmanaged Tables"
 date: 2025-07-04
-categories: [Apache Spark/Spark SQL, Apache Hive]
+categories: [Apache Spark, Spark SQL]
 tags: [spark, hive, hive metastore, hive warehouse, catalog]
 
 ---
