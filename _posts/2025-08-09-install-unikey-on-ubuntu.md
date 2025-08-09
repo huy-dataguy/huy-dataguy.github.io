@@ -40,6 +40,7 @@ Trong cửa sổ cấu hình:
 2. Nhấn nút **“+”** để thêm bộ gõ (giữ nguyên Keyboard-English(US).
 3. Tìm kiếm **Unikey** hoặc **Vietnamese** trong danh sách.
 4. Chọn **Unikey** và nhấn **OK**.
+<img width="816" height="632" alt="image" src="https://github.com/user-attachments/assets/a051408c-3eb9-455d-be3b-32ee271b1cc7" />
 
 ---
 #### Bước 4: Cấu hình kiểu gõ
@@ -49,6 +50,8 @@ Trong cửa sổ cấu hình:
     - **Telex**:
     - **VNI**:
 Nhấn **OK** để lưu cấu hình.
+<img width="849" height="632" alt="image" src="https://github.com/user-attachments/assets/e7f427f4-8632-4a61-8019-a4017321e168" />
+
 
 ---
 #### Bước 5: Chuyển đổi giữa các bộ gõ
@@ -61,6 +64,8 @@ Phím tắt mặc định:
     - Nhấn **“-”** để xóa phím tắt hiện tại (Ctrl + Space).
     - Nhấn **“+”** và chọn phím mới, ví dụ: **Super + Space**.
 3. Nhấn **OK** để lưu.
+<img width="849" height="632" alt="image" src="https://github.com/user-attachments/assets/0f861afb-c5c6-4b61-8d9d-e92e7fcf27f2" />
+
 
 - Lưu ý: Nếu phím chuyển ngôn ngữ của **fcitx5-configtool** trùng với keyboard shortcuts của Ubuntu thì bạn sẽ không chuyển được, nên cần phải tắt keyboard shortcuts trước.
 - Bạn cũng có thể nhấp vào biểu tượng **V** (tiếng Việt) hoặc **E** (tiếng Anh) ở góc màn hình để chuyển đổi nhanh.
@@ -74,8 +79,6 @@ Chạy lại lệnh cài đặt:
 sudo apt install fcitx5-unikey
 ```
 #### Fcitx5 không hoạt động?
-<img width="864" height="176" alt="image" src="https://github.com/user-attachments/assets/f1dd2f09-d326-451a-addd-eb8c8b9db187" />
-
 Khởi động lại Fcitx5 bằng lệnh:
 
 ```bash
