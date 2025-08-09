@@ -74,6 +74,7 @@ Chạy lại lệnh cài đặt:
 sudo apt install fcitx5-unikey
 ```
 #### Fcitx5 không hoạt động?
+<img width="864" height="176" alt="image" src="https://github.com/user-attachments/assets/f1dd2f09-d326-451a-addd-eb8c8b9db187" />
 
 Khởi động lại Fcitx5 bằng lệnh:
 
