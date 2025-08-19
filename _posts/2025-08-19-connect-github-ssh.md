@@ -1,7 +1,7 @@
 ---
 title: "Kết nối GitHub bằng SSH: Tạo và thêm SSH key"
 date: 2025-08-19
-categories: [Git, Github]
+categories: [Github,Git]
 tags: [ssh, github]
 
 ---
