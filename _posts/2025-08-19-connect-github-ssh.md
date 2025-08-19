@@ -53,6 +53,8 @@ cat ~/.ssh/id_ed25519.pub
 
 Copy toàn bộ nội dung, sau đó vào GitHub:  
 **Settings > SSH and GPG keys > New SSH key > Paste key**.
+<img width="1307" height="574" alt="image" src="https://github.com/user-attachments/assets/9e427467-04e7-4e04-8a5f-59f9afb203b8" />
+
 
 ---
 
