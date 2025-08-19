@@ -3,9 +3,9 @@ title: "Kết nối GitHub bằng SSH: Tạo và thêm SSH key"
 date: 2025-08-19
 categories: [Git, Github]
 tags: [ssh, github]
-description: "Khi làm việc với GitHub, thay vì phải nhập username và password mỗi lần push/pull, ta có thể dùng **SSH key** để xác thực an toàn và tiện lợi hơn. Bài viết hướng dẫn quá trình tạo SSH key, thêm vào ssh-agent và cấu hình Git."
 
 ---
+Khi làm việc với GitHub, thay vì phải nhập username và password mỗi lần push/pull, ta có thể dùng **SSH key** để xác thực an toàn và tiện lợi hơn. Bài viết hướng dẫn quá trình tạo SSH key, thêm vào ssh-agent và cấu hình Git.
 
 ## 1. Tạo SSH key mới
 Mở terminal và chạy lệnh sau (thay email bằng email GitHub của bạn):
