@@ -1,7 +1,7 @@
 ---
 title: "Cài đặt Apache Spark và Jupyter Lab trên Ubuntu với pip"
 date: 2025-08-21
-categories: [spark, setup venv]
+categories: [Apache Spark, Setup venv]
 tags: [spark, pyspark, jupyter, ubuntu, pip]
 
 ---
@@ -12,7 +12,9 @@ Trong bài viết này mình sẽ hướng dẫn cách cài đặt **Apache Spar
 - **PySpark** = dùng Spark bằng Python.
 - **findspark** = thư viện Python hỗ trợ tìm Spark trong máy.
 - **virtualenv (venv)/conda + ipykernel** = công cụ tạo môi trường ảo, tách biệt thư viện cho từng project.
+  
 ---
+
 ## 1. Cài đặt Java JDK
 
 Spark chạy trên JVM, nên cần Java trước.
