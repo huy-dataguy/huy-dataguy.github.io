@@ -1,6 +1,6 @@
 ---
 title: "Cài đặt Apache Spark và Jupyter Lab trên Ubuntu với pip"
-date: 2025-08-21 23:59:00 +0700
+date: 2025-08-21
 categories: [spark, setup venv]
 tags: [spark, pyspark, jupyter, ubuntu, pip]
 
