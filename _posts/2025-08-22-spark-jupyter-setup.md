@@ -2,7 +2,7 @@
 title: "Cài đặt Apache Spark và Jupyter Lab trên Ubuntu với pip"
 date: 2025-08-21
 categories: [Apache Spark, Setup venv]
-tags: [spark, pyspark, jupyter, ubuntu, pip]
+tags: [spark, pyspark, jupyter, ubuntu, pip, miniconda]
 
 ---
 Trong bài viết này mình sẽ hướng dẫn cách cài đặt **Apache Spark** trên Ubuntu và cấu hình môi trường để chạy với **Jupyter Lab** bằng `pip`. Đây là setup cơ bản giúp bạn học và thực hành Spark trong Big Data.
