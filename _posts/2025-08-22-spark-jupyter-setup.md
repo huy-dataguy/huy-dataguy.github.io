@@ -131,3 +131,26 @@ spark is a very powerful tool in BigData processing
 b. test.ipynb
 <img width="1014" height="512" alt="image" src="https://github.com/user-attachments/assets/1c841219-3dde-4f4f-b89b-bb6f41fe2270" />
 
+## 8. Hướng dẫn cài thêm cài đặt môi trường bằng miniconda
+a. Xem hướng dẫn cài đặt miniconda tại:
+  [miniconda install](https://www.anaconda.com/docs/getting-started/miniconda/install)
+
+b. Tạo và activate môi trường ảo bằng miniconda
+
+```bash
+conda create -n myvenv python=3.10
+```
+```bash
+conda activate myvenv
+```
+
+c. Cài đặt jupyter lab, cài đặt kernel và đăng ký kernel
+```bash
+conda install jupyterlab
+```
+```bash
+conda install ipykernel
+```
+```bash
+python -m ipykernel install --user --name=myvenv --display-name "Python (myvenv)"
+```
