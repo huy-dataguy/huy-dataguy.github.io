@@ -144,13 +144,13 @@ conda create -n myvenv python=3.10
 conda activate myvenv
 ```
 
-c. Cài đặt jupyter lab, cài đặt kernel và đăng ký kernel
+c. Cài đặt jupyter lab và đăng ký kernel
 ```bash
-conda install jupyterlab
+pip install jupyterlab
 ```
 ```bash
-conda install ipykernel
+pip install pyspark==3.5.3
 ```
 ```bash
-python -m ipykernel install --user --name=myvenv --display-name "Python (myvenv)"
+python -m ipykernel install --user --name=myvenv --display-name "Python (pyspark)"
 ```
