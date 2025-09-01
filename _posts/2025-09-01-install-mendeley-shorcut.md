@@ -1,6 +1,6 @@
 ---
 title: "Cài đặt và Tạo Shortcut cho Mendeley Reference Manager (AppImage) trên Linux"
-date: 2025-09-01 19:15:00 +0700
+date: 2025-09-01
 categories: [Ubuntu, Mendeley]
 tags: [mendeley, appimage, shortcut]
 
