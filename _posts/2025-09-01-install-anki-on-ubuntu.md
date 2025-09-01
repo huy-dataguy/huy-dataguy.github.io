@@ -1,4 +1,3 @@
-
 ---
 title: "Cài đặt và Tạo Shortcut cho Anki trên Linux"
 date: 2025-09-01
