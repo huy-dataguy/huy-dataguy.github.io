@@ -9,15 +9,13 @@ tags: [anki, shortcut]
 
 Trong bài viết này, mình sẽ hướng dẫn cách **cài đặt Anki trên Linux**, sau đó **tạo shortcut để hiển thị trong menu ứng dụng**. Mình thực hiện trên Ubuntu, nhưng các bản phân phối Linux khác cũng tương tự.
 
----
-
 ## 1. Cài đặt các thư viện cần thiết
 
 Trước tiên, hãy cài các gói phụ thuộc cần cho Anki:
 
 ```bash
 sudo apt install libxcb-xinerama0 libxcb-cursor0 libnss3 zstd mpv
-````
+```
 
 ---
 
