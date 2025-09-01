@@ -8,7 +8,6 @@ tags: [mendeley, appimage, shortcut]
 
 Trong bài viết này, mình sẽ hướng dẫn cách **cài đặt Mendeley Reference Manager dạng AppImage** trên Linux, sau đó **tạo shortcut để hiển thị trong menu ứng dụng**.  
 
----
 
 ## 1. Tải Mendeley Reference Manager
 
